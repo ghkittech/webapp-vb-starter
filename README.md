@@ -4,7 +4,7 @@
 
 ### Database Setup
 1. Open SQL Server Management Studio
-2. Connect to `LocalDB\SQLEXPRESS`
+2. Connect to `(Local)\SQLEXPRESS`
 3. Create new database: `demo`
 
 ### Project Setup
