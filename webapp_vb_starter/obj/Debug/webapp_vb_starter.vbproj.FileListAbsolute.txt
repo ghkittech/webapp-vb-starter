@@ -1,0 +1,13 @@
+D:\webapp_vb_starter\webapp_vb_starter\bin\webapp_vb_starter.dll.config
+D:\webapp_vb_starter\webapp_vb_starter\bin\webapp_vb_starter.dll
+D:\webapp_vb_starter\webapp_vb_starter\bin\webapp_vb_starter.pdb
+D:\webapp_vb_starter\webapp_vb_starter\bin\webapp_vb_starter.xml
+D:\webapp_vb_starter\webapp_vb_starter\bin\iosc.dll
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.vbproj.AssemblyReference.cache
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.Resources.resources
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.vbproj.GenerateResource.cache
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.vbproj.CoreCompileInputs.cache
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.vbproj.CopyComplete
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.dll
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.xml
+D:\webapp_vb_starter\webapp_vb_starter\obj\Debug\webapp_vb_starter.pdb
