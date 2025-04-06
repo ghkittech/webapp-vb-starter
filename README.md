@@ -13,7 +13,7 @@
 
 ## 📹 Video Demonstration
 
-[![WebApp Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![WebApp Demo Video](https://img.youtube.com/vi/Sp8sqIthEfo/0.jpg)](https://www.youtube.com/watch?v=Sp8sqIthEfo)
 
 **Video Timeline:**
 - 0:00 - Database setup
