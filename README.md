@@ -17,9 +17,9 @@
 
 **Video Timeline:**
 - 0:00 - Database setup
-- 2:15 - CRUD operations demo
-- 4:30 - Automation process
-
+- 01:31 - Automation process
+- 02:12 - CRUD operations demo
+  
 ## ✨ Core Features
 
 ### Database Operations
