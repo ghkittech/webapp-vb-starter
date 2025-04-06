@@ -8,7 +8,7 @@
 3. Create new database: `demo`
 
 ### Project Setup
-1. [📥 Download Starter Project]({GITHUB-LINK})
+1. [📥 Download Starter Project](https://github.com/ghkittech/webapp-vb-starter)
 2. Extract and open `webapp_vb_starter.sln`
 
 ## 📹 Video Demonstration
